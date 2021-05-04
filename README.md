@@ -1,1 +1,1 @@
-# Gehrig_et_al_sequencing_comparison
+These scripts and files detail the analysis of sequencing data for "Comparing short-read and long-read sequencing methods for taxonomic, functional, and genomic characterization of the human gut microbiome and a microbiota-directed intervention".
