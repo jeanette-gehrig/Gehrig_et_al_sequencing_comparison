@@ -1,1 +1,1 @@
-These scripts and files detail the analysis of sequencing data for "Comparing short-read and long-read sequencing methods for taxonomic, functional, and genomic characterization of the human gut microbiome and a microbiota-directed intervention".
+These scripts and files detail the analysis of sequencing data for "Finding the right fit: A comprehensive evaluation of short-read and long-read sequencing approaches to maximize the utility of clinical microbiome data".
