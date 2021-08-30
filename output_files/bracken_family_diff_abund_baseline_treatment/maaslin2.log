@@ -1,0 +1,39 @@
+2021-05-12 13:52:35 INFO::Writing function arguments to log file
+2021-05-12 13:52:35 DEBUG::Function arguments
+2021-05-12 13:52:35 DEBUG::Output folder: bracken_family_diff_abund_baseline_treatment
+2021-05-12 13:52:35 DEBUG::Min Abundance: 0.000000
+2021-05-12 13:52:35 DEBUG::Min Prevalence: 0.000000
+2021-05-12 13:52:35 DEBUG::Normalization: TSS
+2021-05-12 13:52:35 DEBUG::Transform: LOG
+2021-05-12 13:52:35 DEBUG::Analysis method: LM
+2021-05-12 13:52:35 DEBUG::Max significance: 0.200000
+2021-05-12 13:52:35 DEBUG::Random effects: Patient
+2021-05-12 13:52:35 DEBUG::Fixed effects: Timepoint
+2021-05-12 13:52:35 DEBUG::Correction method: BH
+2021-05-12 13:52:35 DEBUG::Standardize: FALSE
+2021-05-12 13:52:35 DEBUG::Cores: 2
+2021-05-12 13:52:35 INFO::Verifying options selected are valid
+2021-05-12 13:52:35 INFO::Determining format of input files
+2021-05-12 13:52:35 INFO::Input format is data samples as rows and metadata samples as rows
+2021-05-12 13:52:35 DEBUG::A total of 12 samples were found in both the data and metadata
+2021-05-12 13:52:35 DEBUG::Reordering data/metadata to use same sample ordering
+2021-05-12 13:52:35 INFO::Formula for random effects: expr ~ (1 | Patient)
+2021-05-12 13:52:35 INFO::Formula for fixed effects: expr ~  Timepoint
+2021-05-12 13:52:35 INFO::Filter data based on min abundance and min prevalence
+2021-05-12 13:52:35 INFO::Total samples in data: 12
+2021-05-12 13:52:35 INFO::Min samples required with min abundance for a feature not to be filtered: 0.000000
+2021-05-12 13:52:35 INFO::Total filtered features: 0
+2021-05-12 13:52:35 INFO::Filtered feature names from abundance and prevalence filtering:
+2021-05-12 13:52:35 INFO::Running selected normalization method: TSS
+2021-05-12 13:52:35 INFO::Total filtered features with variance filtering: 0
+2021-05-12 13:52:35 INFO::Filtered feature names from variance filtering:
+2021-05-12 13:52:35 INFO::Bypass z-score application to metadata
+2021-05-12 13:52:35 INFO::Running selected transform method: LOG
+2021-05-12 13:52:35 INFO::Running selected analysis method: LM
+2021-05-12 13:52:35 INFO::Creating cluster of 2 R processes
+2021-05-12 13:52:39 INFO::Counting total values for each feature
+2021-05-12 13:52:39 INFO::Writing residuals to file bracken_family_diff_abund_baseline_treatment/residuals.rds
+2021-05-12 13:52:39 INFO::Writing all results to file (ordered by increasing q-values): bracken_family_diff_abund_baseline_treatment/all_results.tsv
+2021-05-12 13:52:39 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.200000 ) to file (ordered by increasing q-values): bracken_family_diff_abund_baseline_treatment/significant_results.tsv
+2021-05-12 13:52:39 INFO::Writing heatmap of significant results to file: bracken_family_diff_abund_baseline_treatment/heatmap.pdf
+2021-05-12 13:52:39 INFO::Writing association plots (one for each significant association) to output folder: bracken_family_diff_abund_baseline_treatment

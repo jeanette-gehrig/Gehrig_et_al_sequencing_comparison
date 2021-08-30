@@ -1,0 +1,5 @@
+feature	metadata	value	coef	stderr	N	N.not.0	pval	qval
+PWY.7383..anaerobic.energy.metabolism..invertebrates..cytosol.	Timepoint	treatment	3.38033254996509e-05	7.4779874722642e-06	12	12	6.2677981344366e-06	0.00244444127243027
+HSERMETANA.PWY..L.methionine.biosynthesis.III	Timepoint	treatment	3.55788192445954e-05	8.76783851889616e-06	12	12	7.54398223178278e-05	0.0147107653519764
+DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II	Timepoint	treatment	3.24881538524398e-05	8.62752916018711e-06	12	12	0.00021900908182634	0.0284711806374241
+P42.PWY..incomplete.reductive.TCA.cycle	Timepoint	treatment	2.08249942109308e-05	6.47886082447175e-06	12	12	0.00157265226994093	0.153333596319241

@@ -1,0 +1,3 @@
+feature	metadata	value	coef	stderr	N	N.not.0	pval	qval
+Cluster.containing.Glutathione.synthetase	Timepoint	treatment	6.57697662497552e-05	1.02196407431619e-05	11	11	4.99825497752189e-09	3.083923321131e-06
+Proline..4.hydroxyproline.uptake.and.utilization	Timepoint	treatment	2.90680481288215e-05	7.37341057535393e-06	11	11	9.61798502428926e-05	0.0296714837999324

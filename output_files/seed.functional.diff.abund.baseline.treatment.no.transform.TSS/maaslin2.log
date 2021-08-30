@@ -1,0 +1,44 @@
+2021-08-03 08:45:11 INFO::Writing function arguments to log file
+2021-08-03 08:45:11 DEBUG::Function arguments
+2021-08-03 08:45:11 DEBUG::Output folder: seed.functional.diff.abund.baseline.treatment.no.transform.TSS
+2021-08-03 08:45:11 DEBUG::Min Abundance: 0.000000
+2021-08-03 08:45:11 DEBUG::Min Prevalence: 0.000000
+2021-08-03 08:45:11 DEBUG::Normalization: TSS
+2021-08-03 08:45:11 DEBUG::Transform: NONE
+2021-08-03 08:45:11 DEBUG::Analysis method: LM
+2021-08-03 08:45:11 DEBUG::Max significance: 0.200000
+2021-08-03 08:45:11 DEBUG::Random effects: Patient
+2021-08-03 08:45:11 DEBUG::Fixed effects: Timepoint
+2021-08-03 08:45:11 DEBUG::Correction method: BH
+2021-08-03 08:45:11 DEBUG::Standardize: FALSE
+2021-08-03 08:45:11 DEBUG::Cores: 2
+2021-08-03 08:45:11 INFO::Verifying options selected are valid
+2021-08-03 08:45:11 INFO::Determining format of input files
+2021-08-03 08:45:11 INFO::Input format is data samples as rows and metadata samples as rows
+2021-08-03 08:45:11 DEBUG::The following samples were found to have metadata but no features. They will be removed. 3218_V6_D29
+2021-08-03 08:45:11 DEBUG::A total of 11 samples were found in both the data and metadata
+2021-08-03 08:45:11 DEBUG::Reordering data/metadata to use same sample ordering
+2021-08-03 08:45:11 INFO::Formula for random effects: expr ~ (1 | Patient)
+2021-08-03 08:45:11 INFO::Formula for fixed effects: expr ~  Timepoint
+2021-08-03 08:45:11 INFO::Filter data based on min abundance and min prevalence
+2021-08-03 08:45:11 INFO::Total samples in data: 11
+2021-08-03 08:45:11 INFO::Min samples required with min abundance for a feature not to be filtered: 0.000000
+2021-08-03 08:45:11 INFO::Total filtered features: 0
+2021-08-03 08:45:11 INFO::Filtered feature names from abundance and prevalence filtering:
+2021-08-03 08:45:11 INFO::Running selected normalization method: TSS
+2021-08-03 08:45:11 INFO::Total filtered features with variance filtering: 0
+2021-08-03 08:45:11 INFO::Filtered feature names from variance filtering:
+2021-08-03 08:45:11 INFO::Bypass z-score application to metadata
+2021-08-03 08:45:11 INFO::Running selected transform method: NONE
+2021-08-03 08:45:11 INFO::Running selected analysis method: LM
+2021-08-03 08:45:11 INFO::Creating cluster of 2 R processes
+2021-08-03 08:45:29 INFO::Counting total values for each feature
+2021-08-03 08:45:29 INFO::Writing residuals to file seed.functional.diff.abund.baseline.treatment.no.transform.TSS/residuals.rds
+2021-08-03 08:45:29 INFO::Writing all results to file (ordered by increasing q-values): seed.functional.diff.abund.baseline.treatment.no.transform.TSS/all_results.tsv
+2021-08-03 08:45:29 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.200000 ) to file (ordered by increasing q-values): seed.functional.diff.abund.baseline.treatment.no.transform.TSS/significant_results.tsv
+2021-08-03 08:45:29 INFO::Writing heatmap of significant results to file: seed.functional.diff.abund.baseline.treatment.no.transform.TSS/heatmap.pdf
+2021-08-03 08:45:29 INFO::Writing association plots (one for each significant association) to output folder: seed.functional.diff.abund.baseline.treatment.no.transform.TSS
+2021-08-03 08:45:29 INFO::Plotting associations from most to least significant, grouped by metadata
+2021-08-03 08:45:29 INFO::Plotting data for metadata number 1, Timepoint
+2021-08-03 08:45:29 INFO::Creating boxplot for categorical data, Timepoint vs Cluster.containing.Glutathione.synthetase
+2021-08-03 08:45:30 INFO::Creating boxplot for categorical data, Timepoint vs Proline..4.hydroxyproline.uptake.and.utilization

@@ -1,0 +1,45 @@
+2021-08-03 08:29:44 INFO::Writing function arguments to log file
+2021-08-03 08:29:44 DEBUG::Function arguments
+2021-08-03 08:29:44 DEBUG::Output folder: humann2.pathabund.diff.abund.baseline.treatment.no.transform.TSS
+2021-08-03 08:29:44 DEBUG::Min Abundance: 0.000000
+2021-08-03 08:29:44 DEBUG::Min Prevalence: 0.000000
+2021-08-03 08:29:44 DEBUG::Normalization: TSS
+2021-08-03 08:29:44 DEBUG::Transform: NONE
+2021-08-03 08:29:44 DEBUG::Analysis method: LM
+2021-08-03 08:29:44 DEBUG::Max significance: 0.200000
+2021-08-03 08:29:44 DEBUG::Random effects: Patient
+2021-08-03 08:29:44 DEBUG::Fixed effects: Timepoint
+2021-08-03 08:29:44 DEBUG::Correction method: BH
+2021-08-03 08:29:44 DEBUG::Standardize: FALSE
+2021-08-03 08:29:44 DEBUG::Cores: 2
+2021-08-03 08:29:44 INFO::Verifying options selected are valid
+2021-08-03 08:29:44 INFO::Determining format of input files
+2021-08-03 08:29:44 INFO::Input format is data samples as rows and metadata samples as rows
+2021-08-03 08:29:44 DEBUG::A total of 12 samples were found in both the data and metadata
+2021-08-03 08:29:44 DEBUG::Reordering data/metadata to use same sample ordering
+2021-08-03 08:29:44 INFO::Formula for random effects: expr ~ (1 | Patient)
+2021-08-03 08:29:44 INFO::Formula for fixed effects: expr ~  Timepoint
+2021-08-03 08:29:44 INFO::Filter data based on min abundance and min prevalence
+2021-08-03 08:29:44 INFO::Total samples in data: 12
+2021-08-03 08:29:44 INFO::Min samples required with min abundance for a feature not to be filtered: 0.000000
+2021-08-03 08:29:44 INFO::Total filtered features: 80
+2021-08-03 08:29:44 INFO::Filtered feature names from abundance and prevalence filtering:
+2021-08-03 08:29:44 INFO::Running selected normalization method: TSS
+2021-08-03 08:29:44 INFO::Total filtered features with variance filtering: 0
+2021-08-03 08:29:44 INFO::Filtered feature names from variance filtering:
+2021-08-03 08:29:44 INFO::Bypass z-score application to metadata
+2021-08-03 08:29:44 INFO::Running selected transform method: NONE
+2021-08-03 08:29:44 INFO::Running selected analysis method: LM
+2021-08-03 08:29:44 INFO::Creating cluster of 2 R processes
+2021-08-03 08:30:00 INFO::Counting total values for each feature
+2021-08-03 08:30:00 INFO::Writing residuals to file humann2.pathabund.diff.abund.baseline.treatment.no.transform.TSS/residuals.rds
+2021-08-03 08:30:00 INFO::Writing all results to file (ordered by increasing q-values): humann2.pathabund.diff.abund.baseline.treatment.no.transform.TSS/all_results.tsv
+2021-08-03 08:30:00 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.200000 ) to file (ordered by increasing q-values): humann2.pathabund.diff.abund.baseline.treatment.no.transform.TSS/significant_results.tsv
+2021-08-03 08:30:00 INFO::Writing heatmap of significant results to file: humann2.pathabund.diff.abund.baseline.treatment.no.transform.TSS/heatmap.pdf
+2021-08-03 08:30:00 INFO::Writing association plots (one for each significant association) to output folder: humann2.pathabund.diff.abund.baseline.treatment.no.transform.TSS
+2021-08-03 08:30:00 INFO::Plotting associations from most to least significant, grouped by metadata
+2021-08-03 08:30:00 INFO::Plotting data for metadata number 1, Timepoint
+2021-08-03 08:30:00 INFO::Creating boxplot for categorical data, Timepoint vs PWY.7383..anaerobic.energy.metabolism..invertebrates..cytosol.
+2021-08-03 08:30:00 INFO::Creating boxplot for categorical data, Timepoint vs HSERMETANA.PWY..L.methionine.biosynthesis.III
+2021-08-03 08:30:01 INFO::Creating boxplot for categorical data, Timepoint vs DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II
+2021-08-03 08:30:01 INFO::Creating boxplot for categorical data, Timepoint vs P42.PWY..incomplete.reductive.TCA.cycle

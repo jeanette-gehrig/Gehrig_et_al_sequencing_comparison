@@ -1,0 +1,21 @@
+Genus	Long reads	Short reads
+Ruminococcus	23	17
+Blautia	17	14
+Faecalibacterium	15	8
+Bifidobacterium	13	9
+Agathobacter	6	13
+Gemmiger	7	10
+Collinsella	9	7
+Eubacterium	8	6
+Dorea	6	8
+Mediterraneibacter	6	6
+Anaerobutyricum	5	7
+Erysipelatoclostridium	3	7
+Fusicatenibacter	6	3
+Bacteroides	5	4
+Coprococcus	3	6
+Anaerostipes	7	1
+Alistipes	6	1
+Dialister	6	1
+Roseburia	4	3
+CAG-41 (o. Monoglobales)	1	6
