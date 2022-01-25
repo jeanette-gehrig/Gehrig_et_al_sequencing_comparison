@@ -1,1 +1,1 @@
-These scripts and files detail the analysis of sequencing data for "Finding the right fit: A comprehensive evaluation of short-read and long-read sequencing approaches to maximize the utility of clinical microbiome data".
+These scripts and files detail the analysis of sequencing data for "Finding the right fit: Evaluation of short-read and long-read sequencing approaches to maximize the utility of clinical microbiome data".

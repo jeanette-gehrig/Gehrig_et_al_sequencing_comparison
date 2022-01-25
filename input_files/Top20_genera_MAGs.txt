@@ -1,21 +1,21 @@
 Genus	Long reads	Short reads
-Ruminococcus	23	17
-Blautia	17	14
-Faecalibacterium	15	8
-Bifidobacterium	13	9
-Agathobacter	6	13
-Gemmiger	7	10
+Ruminococcus	25	17
+Blautia	25	14
+Faecalibacterium	28	8
+Bifidobacterium	20	9
+Agathobacter	12	13
+Gemmiger	10	10
+Eubacterium	14	6
+Bacteroides	14	4
+Dorea	9	8
 Collinsella	9	7
-Eubacterium	8	6
-Dorea	6	8
+Anaerobutyricum	8	7
+CAG-41 (o. Monoglobales)	7	6
 Mediterraneibacter	6	6
-Anaerobutyricum	5	7
-Erysipelatoclostridium	3	7
+Faecalibacillus	5	7
+Coprococcus	5	6
+Alistipes	10	1
+Roseburia	7	3
 Fusicatenibacter	6	3
-Bacteroides	5	4
-Coprococcus	3	6
-Anaerostipes	7	1
-Alistipes	6	1
-Dialister	6	1
-Roseburia	4	3
-CAG-41 (o. Monoglobales)	1	6
+Dialister	7	1
+Anaerostipes	5	1

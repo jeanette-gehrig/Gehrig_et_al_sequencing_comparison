@@ -1,0 +1,274 @@
+Taxonomy	1103_V2_D1	1103_V6_D29	2103_V2_D1	2103_V6_D29	2202_V2_D1	2202_V5_D22	3204_V2_D1	3204_V6_D29	3216_V2_D1	3216_V6_D29	3218_V2_D1	taxonomy
+[Eubacterium] rectale	35.50052193	16.42555842	15.91477008	15.90848982	9.555828498	10.5368335	47.44200855	32.95956015	3.844262915	0.729213737	7.899828546	[Eubacterium] rectale
+Bifidobacterium longum	2.555687267	0.789853636	1.311889071	1.254812072	23.35472308	6.364311553	7.606039272	5.336667149	1.144013312	3.451762314	3.968352794	Bifidobacterium longum
+Bifidobacterium adolescentis	2.783036394	0.331228944	4.300693305	8.220439429	0	0	0	0	3.026750372	6.01728423	3.231769811	Bifidobacterium adolescentis
+Collinsella aerofaciens	0.831107022	0.464286725	0.955743649	1.403214905	7.370690195	0.732021394	0	0	0.830749061	4.0996385	1.217900212	Collinsella aerofaciens
+Faecalibacterium prausnitzii	20.3919782	17.51479206	27.94378843	13.34450028	25.62445951	35.91980893	8.045487361	11.9732511	15.53904142	3.270447357	22.24164519	Faecalibacterium prausnitzii
+Roseburia intestinalis	0.451602059	6.86026102	0	3.609176487	1.477647295	1.275427057	1.177093096	0.441293496	4.596853491	0	4.026781353	Roseburia intestinalis
+[Ruminococcus] gnavus	1.057129209	0.272485349	0	0	0.97695171	0.515086587	1.330899927	2.373761123	0	0	0	[Ruminococcus] gnavus
+Escherichia coli	3.465968401	1.993743453	0	0	0.538294752	0	0.811633716	0.449884251	0	0	0	Escherichia coli
+Lachnospiraceae bacterium	0	0	0.689936059	0.512308129	0	0	0	0	1.424501425	2.296656123	0.251434373	Lachnospiraceae bacterium
+Megamonas hypermegale	0.732471117	0	0	0	0	0	0	0	0	0	0	Megamonas hypermegale
+Erysipelotrichaceae bacterium GAM147	0	0	0	0	0	0	0	0	0	0	0	Erysipelotrichaceae bacterium GAM147
+Anaerostipes hadrus	0	0.782776095	1.441118107	3.752681536	1.698229079	2.122862043	3.079275538	1.301725385	2.739959156	3.623474921	0.962634458	Anaerostipes hadrus
+Lachnospiraceae bacterium Choco86	0	0	0	0	0	0	0	0	0	0	0	Lachnospiraceae bacterium Choco86
+Acidaminococcus intestini	0	0	0	0	0	0	0	0	0	0	0	Acidaminococcus intestini
+Clostridium sporogenes	0	0	0	0	0	0	0	0	0	0	0	Clostridium sporogenes
+Roseburia hominis	0	0.362370127	0.412185502	0	0	0.776370136	0	0	0.806166957	0.294848622	0	Roseburia hominis
+Clostridioides difficile	0	0	0	0	0.281367106	0	0	0.260887651	0	0	0	Clostridioides difficile
+Bifidobacterium pseudocatenulatum	0.31802339	0	0	0	0	0	0	0	0	0	1.002385035	Bifidobacterium pseudocatenulatum
+Lachnospiraceae bacterium GAM79	0	0	0	0	0	0	0	0	0	0	0	Lachnospiraceae bacterium GAM79
+Blautia coccoides	0	0	0	0	0	0	0	0	0	0	0	Blautia coccoides
+Blautia hansenii	0	0	0	0	0	0	0	0	0	0	0	Blautia hansenii
+Faecalitalea cylindroides	0	0	0	0	0	0	0	0	0	0	0	Faecalitalea cylindroides
+[Clostridium] scindens	0	0	0	0	0	0.442953092	2.877039734	2.012949432	0	0	0	[Clostridium] scindens
+Eggerthella lenta	0	0	0	0	0.631666019	0.57706796	0.572179349	0.871283368	0	0	0	Eggerthella lenta
+Megasphaera elsdenii	0	0	0	0	0	0	0	0	0	0	0	Megasphaera elsdenii
+Clostridium sp. SY8519	0	0	0	0	0	0	0	0	0	0	0	Clostridium sp. SY8519
+Clostridiales bacterium CCNA10	0	0	0	0	0	0	0	0	0	0	0	Clostridiales bacterium CCNA10
+Blautia producta	0	0	0	0	0	0	0.36545938	0.771359329	0	0	0	Blautia producta
+Lachnoclostridium phocaeense	0	0	0	0	0	0	0	0	0	0	0	Lachnoclostridium phocaeense
+Christensenella minuta	0	0	0	0	0	0	0	0	0	0	0	Christensenella minuta
+Phocaeicola vulgatus	0.701951487	11.51303683	1.780114652	0.625936701	0	5.161017991	0	0	0	0	4.390283618	Phocaeicola vulgatus
+Campylobacter jejuni	0	0	0	0	0	0	0	0	0	0	0	Campylobacter jejuni
+Turicibacter sp. H121	0	0	0	0	0	0	0	0	0	0	0	Turicibacter sp. H121
+Lachnoclostridium sp. YL32	0	0	0	0	0	0	0	0	0	0	0	Lachnoclostridium sp. YL32
+[Clostridium] hylemonae	0	0	0	0	0	0	0	0	0	0	0	[Clostridium] hylemonae
+Bifidobacterium breve	0	0	0	0	0.304553259	0	0	0	0	0	0	Bifidobacterium breve
+Bifidobacterium catenulatum	0	0	0.506198094	0.72879015	0	0	0	0	0	0	0	Bifidobacterium catenulatum
+Enterococcus faecium	0	0	0	0	0	0	0	0	0	0	0	Enterococcus faecium
+Paenibacillus larvae	0	0	0	0	0	0	0	0	0	0	0	Paenibacillus larvae
+Ruminococcus bicirculans	0	0	0	0	0	0	0	0	0	0	0	Ruminococcus bicirculans
+Ruthenibacterium lactatiformans	0	0	0	0	0	0	0	0.285755625	0	0	0	Ruthenibacterium lactatiformans
+Bacteroides ovatus	0.334831302	2.400702092	0.293368284	0.356558622	0	0.687138331	0	0.283042755	0	0	0.5675233	Bacteroides ovatus
+[Eubacterium] cellulosolvens	0	0	0	0	0	0	0	0	0	0	0	[Eubacterium] cellulosolvens
+Clostridium perfringens	0	0	0	0	0.274473925	0	0	0	0	0	0	Clostridium perfringens
+Butyrivibrio fibrisolvens	0	0	0	0	0	0	0	0	0	0	0	Butyrivibrio fibrisolvens
+Streptococcus pasteurianus	0	0	0	0	0	0	0	0	0	0	0	Streptococcus pasteurianus
+Phocaeicola dorei	0	0.569742094	0	0	0	0	0	0	0	0	0	Phocaeicola dorei
+Flavonifractor plautii	0	0	0	0	0	0	0	0	0	0	0	Flavonifractor plautii
+Streptococcus gallolyticus	0	0	0	0	0	0	0	0	0	0	0	Streptococcus gallolyticus
+Anaerostipes rhamnosivorans	0	0	0	0	0	0	0	0	0	0	0	Anaerostipes rhamnosivorans
+Leuconostoc gelidum	0	0	0	0	0	0	0	0	0	0	0	Leuconostoc gelidum
+Bacteroides caccae	0	0	0	0	0	0	0	0	0	0	1.186291319	Bacteroides caccae
+Bacteroides uniformis	0.284407565	1.599524389	1.388752787	2.544888184	0	3.174408105	0	0	0	0.298802531	0	Bacteroides uniformis
+Butyrivibrio hungatei	0	0	0	0	0	0	0	0	0	0	0	Butyrivibrio hungatei
+[Clostridium] innocuum	0	0	0	0	0	0	0	0	0	0	0	[Clostridium] innocuum
+Bifidobacterium bifidum	0	0	0.887454372	1.555046186	0	0	0	0	0	0	0	Bifidobacterium bifidum
+Hungatella hathewayi	0	0	0	0	0	0	0.508055801	0	0	0	0	Hungatella hathewayi
+Bacteroides fragilis	0	0	0	0	0.647332339	4.208321534	0.42554718	0	0	0	3.046905681	Bacteroides fragilis
+Clostridium botulinum	0	0	0	0	0	0	0	0	0	0	0	Clostridium botulinum
+Intestinimonas butyriciproducens	0	0	0	0	0	0	0	0	0	0	0	Intestinimonas butyriciproducens
+Erysipelotrichaceae bacterium I46	0	0	0	0	0	0	0	0	0	0	0	Erysipelotrichaceae bacterium I46
+Christensenella sp. Marseille-P3954	0	0	0	0	0	0	0	0	0	0	0	Christensenella sp. Marseille-P3954
+Oscillibacter sp. PEA192	0	0	0	0	0	0	0	0	0	0	0	Oscillibacter sp. PEA192
+Lactococcus lactis	0	0	0	0	0	0	0	0	0	0	0	Lactococcus lactis
+Lachnoclostridium phytofermentans	0	0	0	0	0	0	0	0	0	0	0	Lachnoclostridium phytofermentans
+Butyrivibrio proteoclasticus	0	0	0	0	0	0	0	0	0	0	0	Butyrivibrio proteoclasticus
+Ruminococcus champanellensis	0	0	0	0	0	0	0	0	0	0	0	Ruminococcus champanellensis
+Pediococcus acidilactici	0	0	0	0	0	0	0	0	0	0	0	Pediococcus acidilactici
+Gordonibacter urolithinfaciens	0	0	0	0	0	0	0	0	0	0	0	Gordonibacter urolithinfaciens
+Phascolarctobacterium faecium	0	0.272485349	0	0	0	0	0	0	0	0	0	Phascolarctobacterium faecium
+Gordonibacter pamelaeae	0	0	0	0	0	0	0	0	0	0	0	Gordonibacter pamelaeae
+Monoglobus pectinilyticus	0	0	0	0	0	0	0	0	0	0	0	Monoglobus pectinilyticus
+Eubacterium limosum	0	0	0	0	0	0	0	0	0	0	0	Eubacterium limosum
+Lachnoanaerobaculum umeaense	0	0	0	0	0	0	0	0	0	0	0	Lachnoanaerobaculum umeaense
+Megamonas funiformis	5.095451248	1.470005379	0	0	0	0	0	0	0	0	0	Megamonas funiformis
+Dorea longicatena	4.699138373	3.70863177	2.84579485	4.220419838	3.684091792	1.855700951	0	0	4.92398457	8.269882512	1.147498587	Dorea longicatena
+Ruminococcus bromii	4.380230357	3.479319424	1.985594944	0.926170815	0	0	2.861793576	4.264631411	2.005647581	1.770786263	1.580923554	Ruminococcus bromii
+Eubacterium ventriosum	2.51543674	1.790618011	1.440505647	1.681898773	0	0	0	0	0.369992184	0	0	Eubacterium ventriosum
+Anaerobutyricum hallii	2.124431627	1.949862696	0	0.464799632	3.585707303	2.024012439	5.937033367	9.304691456	1.090436931	1.738590149	1.847683451	Anaerobutyricum hallii
+[Ruminococcus] torques	1.7723501	1.244231804	0	0.366843966	0.763263106	0.651873066	0	0	0.515593878	0.68967465	0	[Ruminococcus] torques
+Coprococcus catus	1.755984501	0.809670753	0.702185257	0.431494705	0.4593365	0.515620909	0	0	0.877392028	3.629688206	0.292142796	Coprococcus catus
+Blautia obeum	1.305267069	2.192622371	0.671256033	2.233389168	1.950143503	0.663628155	4.953207747	7.653458005	0.407810806	0.650135563	1.022499784	Blautia obeum
+Gemmiger formicilis	1.264574229	1.810435127	3.265329871	4.848315652	0.347792302	0.555695073	0	0	0.399616771	0.375056484	1.022499784	Gemmiger formicilis
+Anaerotruncus sp. CAG:528	1.249977884	4.916768111	0	0	0	0	0	0	0	0	0	Anaerotruncus sp. CAG:528
+Blautia wexlerae	0.989455247	0.961837896	1.547073667	2.510603701	4.686736267	1.955619199	10.93732484	7.327461477	2.167637345	2.956958879	1.49232287	Blautia wexlerae
+Clostridiales bacterium 52_15	0.665239469	0.602298785	0.567750312	1.947358625	0	0	0	0	0	1.244351559	1.632168274	Clostridiales bacterium 52_15
+Fusicatenibacter saccharivorans	0.596238566	0.929988959	1.00075945	1.77642599	2.425146323	2.029889983	0	0	1.096109724	1.864550384	0.732751602	Fusicatenibacter saccharivorans
+Megamonas rupellensis	0.555545726	0	0	0	0	0	0	0	0	0	0	Megamonas rupellensis
+Dorea formicigenerans	0.443640417	0.608668573	0	0.391332883	1.758387748	1.027501563	0	0	0.485969291	0.558065974	0	Dorea formicigenerans
+Roseburia inulinivorans	0.389235859	2.572686352	2.395943066	0	0	0	0	1.600141069	2.855936263	0	0	Roseburia inulinivorans
+Parabacteroides merdae	0.264945772	0.924326926	0	0	0	0	0	0	0	0	1.496154251	Parabacteroides merdae
+Slackia piriformis	0.263618832	0	0	0	0	0	0	0	0	0	0	Slackia piriformis
+Ruminococcus sp. AM31-32	0.260522638	0	0	0	0	0	0	0	0	0	0	Ruminococcus sp. AM31-32
+Streptococcus thermophilus	0	0	0	0	0	0	0	0	0	0	0	Streptococcus thermophilus
+Bacteroides xylanisolvens	0	0.499674433	0	0	0	1.304814777	0	0	0	0	0.766755108	Bacteroides xylanisolvens
+Bacteroides thetaiotaomicron	0	0.278855137	0	0.272806528	0	0.265558126	0	0	0	0	0	Bacteroides thetaiotaomicron
+Phascolarctobacterium succinatutens	0	0	0	0	0	0	0	0	0.850918993	0	0	Phascolarctobacterium succinatutens
+Parabacteroides distasonis	0	0	0	0	0	0	0	0	0	0	1.251424795	Parabacteroides distasonis
+Alistipes finegoldii	0	0	0	0	0	0	0	0	0	0	0	Alistipes finegoldii
+Bacteroides caecimuris	0	0	0	0	0	0	0	0	0	0	0	Bacteroides caecimuris
+Pseudomonas resinovorans	0	0	0	0	0	0	0	0	0	0	0	Pseudomonas resinovorans
+Haemophilus parainfluenzae	0	0	0	0	0	0	0	0	0	0	0	Haemophilus parainfluenzae
+Ruminococcus albus	0	0	0	0	0	0	0	0	0	0	0	Ruminococcus albus
+Paeniclostridium sordellii	0	0	0	0	0	0	0	0	0	0	0	Paeniclostridium sordellii
+Alistipes shahii	0	0	0.26274529	0	0	0	0	0	0	0	0	Alistipes shahii
+Enterococcus casseliflavus	0	0	0	0	0	0	0	0	0	0	0	Enterococcus casseliflavus
+Eubacterium sp. CAG:180	0	1.784248224	1.351698964	0	0	0	0	0	0	0	0	Eubacterium sp. CAG:180
+Prevotella sp. CAG:5226	0	0.956883617	0	0	0	0	0	0	0	0	0	Prevotella sp. CAG:5226
+Ruminococcus callidus	0	0.84505846	0.326747348	0.356068843	0	0	0	0	0	0	0	Ruminococcus callidus
+Lachnospira eligens	0	0.835857656	0.561625714	0	0	0	0	0	0	0	0	Lachnospira eligens
+Alistipes onderdonkii	0	0.82453359	0	0.271826971	0	0	0	0	0	0	0.821831209	Alistipes onderdonkii
+Eubacterium sp. CAG:38	0	0.651841576	0	0	0	0	0	0	0	0	0	Eubacterium sp. CAG:38
+Prevotellamassilia timonensis	0	0.649718314	0	0	0	0	0	0	0	0	0	Prevotellamassilia timonensis
+Romboutsia timonensis	0	0.282393908	0	0	0.882953791	0.515620909	0	0	0	1.037618617	0	Romboutsia timonensis
+Clostridiales bacterium KLE1615	0	0.266115562	0.446483255	0.462840518	0.497562321	0.482492934	0	0	0.306961148	0	0	Clostridiales bacterium KLE1615
+Prevotella dentalis	0	0	0	0	0	0	0	0	0	0	0	Prevotella dentalis
+Odoribacter splanchnicus	0	0	0.695141968	0.45941207	0	0	0	0	0	0	0.359670884	Odoribacter splanchnicus
+Streptococcus salivarius	0	0	0.366557241	0	0	0	0	0	0.789148577	0	0	Streptococcus salivarius
+Prevotella intermedia	0	0	0	0	0	0	0	0	0	0	0	Prevotella intermedia
+Prevotella denticola	0	0	0	0	0	0	0	0	0	0	0	Prevotella denticola
+Petrimonas mucosa	0	0	0	0	0	0	0	0	0	0	0	Petrimonas mucosa
+Prevotella ruminicola	0	0	0	0	0	0	0	0	0	0	0	Prevotella ruminicola
+Paraprevotella xylaniphila	0	0	0	0	0	0	0	0	0	0	0	Paraprevotella xylaniphila
+Prevotella oris	0	0	0	0	0	0	0	0	0	0	0	Prevotella oris
+Parabacteroides sp. CT06	0	0	0	0	0	0	0	0	0	0	0	Parabacteroides sp. CT06
+Bacteroides helcogenes	0	0	0	0	0	0	0	0	0	0	0	Bacteroides helcogenes
+Prevotella scopos	0	0	0	0	0	0	0	0	0	0	0	Prevotella scopos
+Rothia mucilaginosa	0	0	0	0	0	0	0	0	0	0	0	Rothia mucilaginosa
+Streptococcus parasanguinis	0	0	0	0	0	0	0	0	0	0	0	Streptococcus parasanguinis
+Bacteroides cellulosilyticus	0	0	0	0	0	0	0	0	0	0	0	Bacteroides cellulosilyticus
+Bacteroides zoogleoformans	0	0	0	0	0	0	0	0	0	0	0	Bacteroides zoogleoformans
+Prevotella enoeca	0	0	0	0	0	0	0	0	0	0	0	Prevotella enoeca
+Prevotella melaninogenica	0	0	0	0	0	0	0	0	0	0	0	Prevotella melaninogenica
+Barnesiella viscericola	0	0	0	0	0	0	0	0	0	0	0	Barnesiella viscericola
+Bacteroides heparinolyticus	0	0	0	0	0	0	0	0	0	0	0	Bacteroides heparinolyticus
+Veillonella dispar	0	0	0	0	0	0	0	0	0	0	0	Veillonella dispar
+Olsenella sp. GAM18	0	0	0	0	0	0	0	0	0	0	0	Olsenella sp. GAM18
+Bifidobacterium angulatum	0	0	0	0	0	0	0	0	1.58901243	8.015137822	0	Bifidobacterium angulatum
+Bacteroides intestinalis	0	0	0	0	0	0.361201797	0	0	0	0	0	Bacteroides intestinalis
+Bacteroides stercoris	0	0	4.837208163	7.606257408	0	0	0	0	0	0	4.080899608	Bacteroides stercoris
+Ruminococcus sp. CAG:403	0	0	2.460251354	0.69058744	0	0	0	0	0	0	0	Ruminococcus sp. CAG:403
+Eubacterium sp. CAG:115	0	0	2.297030794	0.452065395	0	0	0	0	0	0	0	Eubacterium sp. CAG:115
+Roseburia faecis	0	0	2.132279086	0	0.744463523	3.555379823	0	0	1.936313441	0	0.605837109	Roseburia faecis
+Faecalibacterium sp. CAG:74	0	0	1.016377177	1.561413304	0	0	0	0	0	0.869859919	0	Faecalibacterium sp. CAG:74
+Subdoligranulum sp. APC924/74	0	0	0.909196698	1.502150127	1.676296231	4.072069376	0	0	2.272268865	8.794622684	9.707282497	Subdoligranulum sp. APC924/74
+Coprococcus comes	0	0	0.907359318	0.875233869	1.223852912	0.521498453	0	0	1.764238711	0	0.649419067	Coprococcus comes
+Eubacterium sp. CAG:248	0	0	0.878573703	0	0	0	0	0	0	0	0	Eubacterium sp. CAG:248
+Firmicutes bacterium CAG:341	0	0	0.874592714	1.158325742	0	0	0	0	0	0	0	Firmicutes bacterium CAG:341
+Alistipes putredinis	0	0	0.691773439	0.498104558	0	0.397535706	0	0	0	0	0.586680204	Alistipes putredinis
+Alistipes communis	0	0	0.607253975	0.458432513	0	0.408756472	0	0	0	0	1.947299355	Alistipes communis
+Roseburia sp. TF10-5	0	0	0.570812612	0	0	0.905676105	0	0	0.419786703	0	0	Roseburia sp. TF10-5
+[Ruminococcus] lactaris	0	0	0.501298415	0.499084115	0	0	0	0	0	0	0	[Ruminococcus] lactaris
+Faecalibacterium sp. CAG:74_58_120	0	0	0.460569833	0.710178573	0	0	0	0	0	0.422503389	0	Faecalibacterium sp. CAG:74_58_120
+Coprococcus eutactus	0	0	0.455057694	0	0	0	0	0	0	0	1.001427189	Coprococcus eutactus
+Blautia faecis	0	0	0.397180235	0.323743474	0	0	0	0	0	0	0.303636938	Blautia faecis
+uncultured Clostridium sp.	0	0	0.389218256	0.470676972	0.355312136	0	0	0	0.31074301	0.481247176	0.259097135	uncultured Clostridium sp.
+Clostridium sp. CAG:417	0	0	0.382481197	0	0	0	0	0	0	0	0	Clostridium sp. CAG:417
+Clostridium sp. CAG:433	0	0	0.379418898	0	0	0	0	0	0	0	0	Clostridium sp. CAG:433
+Firmicutes bacterium CAG:103	0	0	0.312660771	0	0	0	0	0	0.562867156	2.545187528	1.271060622	Firmicutes bacterium CAG:103
+Prevotella copri	0	0	0.280200397	0	0	0	0	0	25.93790182	5.021464076	0	Prevotella copri
+Akkermansia muciniphila	0	0	0	0	0	1.717311504	0	3.209325038	0	0	2.675261731	Akkermansia muciniphila
+Oscillibacter valericigenes	0	0	0	0	0	0	0	0	0	0	0	Oscillibacter valericigenes
+Ruminococcaceae bacterium CPB6	0	0	0	0	0	0	0	0	0	0	0	Ruminococcaceae bacterium CPB6
+Paenibacillus polymyxa	0	0	0	0	0	0	0	0	0	0	0	Paenibacillus polymyxa
+Neglecta timonensis	0	0	0	1.530067491	0	0	0	0	0	0	0	Neglecta timonensis
+Ruminococcus sp. CAG:177	0	0	0	0.907559239	0	0	0	0	1.959004614	3.582806146	0	Ruminococcus sp. CAG:177
+Ruminococcus sp. AF41-9	0	0	0	0.393781774	0	0	0	0	0	0	0	Ruminococcus sp. AF41-9
+[Eubacterium] siraeum	0	0	0	0.382516873	0	0	0	0	0.645437814	0.446791685	0.315610004	[Eubacterium] siraeum
+Subdoligranulum sp. 60_17	0	0	0	0.358027957	0	0	0	0	0	0	0	Subdoligranulum sp. 60_17
+Eubacterium ramulus	0	0	0	0.349211947	0	0	0	0	0	0	0	Eubacterium ramulus
+Blautia massiliensis	0	0	0	0.332559484	0.487535876	0	0	0	0	0	0	Blautia massiliensis
+Dialister hominis	0	0	0	0.328151479	0	0	0	0	0	0	0	Dialister hominis
+Dialister sp. CAG:357	0	0	0	0.326682144	0	0	0	0	0	0	0	Dialister sp. CAG:357
+Alistipes ihumii	0	0	0	0.291418104	0	0	0	0	0	0	0	Alistipes ihumii
+Eggerthella sp. CAG:298	0	0	0	0.287010099	0	0	0	0	0	0	0	Eggerthella sp. CAG:298
+Firmicutes bacterium CAG:124	0	0	0	0.267908745	0	0	0	0	0	0.301061907	0.505742282	Firmicutes bacterium CAG:124
+uncultured crAssphage	0	0	0	0	0	0	0	0	0	0	0	uncultured crAssphage
+Clostridium baratii	0	0	0	0	0	0	0	0	0	0	0	Clostridium baratii
+Clostridium septicum	0	0	0	0	0	0	0	0	0	0	0	Clostridium septicum
+Clostridium butyricum	0	0	0	0	0	0	0	0	0	0	0	Clostridium butyricum
+Slackia heliotrinireducens	0	0	0	0	0	0	0	0	0	0	0	Slackia heliotrinireducens
+Clostridium chauvoei	0	0	0	0	0	0	0	0	0	0	0	Clostridium chauvoei
+Clostridium isatidis	0	0	0	0	0	0	0	0	0	0	0	Clostridium isatidis
+uncultured Blautia sp.	0	0	0	0	0.407324318	0	0	0	0	0	0	uncultured Blautia sp.
+Dialister invisus	0	0	0	0	0.296406773	1.443738545	0.551103777	0.971659553	0	0	0.770586489	Dialister invisus
+Blautia sp. KLE 1732	0	0	0	0	0.2801138	0	0	0	0	0	0	Blautia sp. KLE 1732
+Faecalicatena fissicatena	0	0	0	0	0.262567522	0	0	0	0	0	0	Faecalicatena fissicatena
+Turicibacter sanguinis	0	0	0	0	0.250034466	0	0	0	0	0	0	Turicibacter sanguinis
+uncultured Ruminococcus sp.	0	0	0	0	0.238754716	0	0	0	0	0	0	uncultured Ruminococcus sp.
+Butyricimonas virosa	0	0	0	0	0	0.275175926	0	0	0	0	0	Butyricimonas virosa
+Eubacterium callanderi	0	0	0	0	0	0	0	0	0	0	0	Eubacterium callanderi
+Streptococcus agalactiae	0	0	0	0	0	0	0	0	0	0	0	Streptococcus agalactiae
+Alkaliphilus metalliredigens	0	0	0	0	0	0	0	0	0	0	0	Alkaliphilus metalliredigens
+Enterocloster bolteae	0	0	0	0	0	0	0.518817795	1.21310497	0	0	0	Enterocloster bolteae
+Saccharomyces cerevisiae	0	0	0	0	0	0	0	0	0	0	0	Saccharomyces cerevisiae
+Streptococcus equi	0	0	0	0	0	0	0	0	0	0	0	Streptococcus equi
+Herbinix luporum	0	0	0	0	0	0	0	0	0	0	0	Herbinix luporum
+Streptococcus equinus	0	0	0	0	0	0	0	0	0	0	0	Streptococcus equinus
+Mogibacterium diversum	0	0	0	0	0	0	0	0	0	0	0	Mogibacterium diversum
+Actinomyces viscosus	0	0	0	0	0	0	0	0	0	0	0	Actinomyces viscosus
+Streptococcus oralis	0	0	0	0	0	0	0	0	0	0	0	Streptococcus oralis
+[Clostridium] leptum	0	0	0	0	0	0	0	2.951602402	0	0.938770899	0	[Clostridium] leptum
+Tyzzerella nexilis	0	0	0	0	0	0	0	1.080626492	0	0	0	Tyzzerella nexilis
+Firmicutes bacterium CAG:646	0	0	0	0	0	0	0	0.522679592	0	0	0	Firmicutes bacterium CAG:646
+Blautia caecimuris	0	0	0	0	0	0	0	0.309267163	0	0	0	Blautia caecimuris
+Oscillospiraceae bacterium	0	0	0	0	0	0	0	0.269930551	0	0	0	Oscillospiraceae bacterium
+Methanobrevibacter smithii	0	0	0	0	0	0	0	0	0.75952399	5.039539087	0	Methanobrevibacter smithii
+Prevotella fusca	0	0	0	0	0	0	0	0	0	0	0	Prevotella fusca
+Streptococcus sp. HSISM1	0	0	0	0	0	0	0	0	0	0	0	Streptococcus sp. HSISM1
+Prevotella jejuni	0	0	0	0	0	0	0	0	0	0	0	Prevotella jejuni
+Veillonella parvula	0	0	0	0	0	0	0	0	0	0	0	Veillonella parvula
+Streptococcus sp. FDAARGOS_192	0	0	0	0	0	0	0	0	0	0	0	Streptococcus sp. FDAARGOS_192
+Prevotella sp. oral taxon 299	0	0	0	0	0	0	0	0	0	0	0	Prevotella sp. oral taxon 299
+Streptococcus mitis	0	0	0	0	0	0	0	0	0	0	0	Streptococcus mitis
+Desulfovibrio piger	0	0	0	0	0	0	0	0	0	0	0	Desulfovibrio piger
+Phocaeicola salanitronis	0	0	0	0	0	0	0	0	0	0	0	Phocaeicola salanitronis
+Staphylococcus aureus	0	0	0	0	0	0	0	0	0	0	0	Staphylococcus aureus
+Streptococcus sp. HSISS1	0	0	0	0	0	0	0	0	0	0	0	Streptococcus sp. HSISS1
+Bacillus subtilis	0	0	0	0	0	0	0	0	0	0	0	Bacillus subtilis
+Ruminococcus sp. CAG:254	0	0	0	0	0	0	0	0	2.225625898	0	0	Ruminococcus sp. CAG:254
+Eubacterium sp. CAG:251	0	0	0	0	0	0	0	0	1.539217911	3.599751469	0.894627446	Eubacterium sp. CAG:251
+Holdemanella biformis	0	0	0	0	0	0	0	0	1.069006379	0.561455038	0	Holdemanella biformis
+Prevotella sp. CAG:279	0	0	0	0	0	0	0	0	1.065224517	0.351897876	0	Prevotella sp. CAG:279
+Clostridium sp. CAG:221	0	0	0	0	0	0	0	0	0.729269092	1.059647537	0	Clostridium sp. CAG:221
+Firmicutes bacterium CAG:110	0	0	0	0	0	0	0	0	0.543957845	0	0	Firmicutes bacterium CAG:110
+Clostridium sp. CAG:167	0	0	0	0	0	0	0	0	0.506139223	0	0	Clostridium sp. CAG:167
+Firmicutes bacterium CAG:176	0	0	0	0	0	0	0	0	0.497314878	0.343990059	0	Firmicutes bacterium CAG:176
+Firmicutes bacterium CAG:194	0	0	0	0	0	0	0	0	0.298767113	0.635449616	0	Firmicutes bacterium CAG:194
+Clostridium sp. CAG:343	0	0	0	0	0	0	0	0	0.272924388	0	0	Clostridium sp. CAG:343
+Lactiplantibacillus plantarum	0	0	0	0	0	0	0	0	0	0	0	Lactiplantibacillus plantarum
+Gordonibacter massiliensis	0	0	0	0	0	0	0	0	0	0	0	Gordonibacter massiliensis
+Adlercreutzia equolifaciens	0	0	0	0	0	0	0	0	0	0	0.341471825	Adlercreutzia equolifaciens
+Clostridium saccharoperbutylacetonicum	0	0	0	0	0	0	0	0	0	0	0	Clostridium saccharoperbutylacetonicum
+Arabia massiliensis	0	0	0	0	0	0	0	0	0	0	0	Arabia massiliensis
+Clostridium saccharobutylicum	0	0	0	0	0	0	0	0	0	0	0	Clostridium saccharobutylicum
+Parolsenella catena	0	0	0	0	0	0	0	0	0	0	0	Parolsenella catena
+Clostridium bornimense	0	0	0	0	0	0	0	0	0	0	0	Clostridium bornimense
+Clostridium beijerinckii	0	0	0	0	0	0	0	0	0	0	0	Clostridium beijerinckii
+Clostridium taeniosporum	0	0	0	0	0	0	0	0	0	0	0	Clostridium taeniosporum
+Clostridium novyi	0	0	0	0	0	0	0	0	0	0	0	Clostridium novyi
+Clostridium sp. DL-VIII	0	0	0	0	0	0	0	0	0	0	0	Clostridium sp. DL-VIII
+Lacticaseibacillus casei	0	0	0	0	0	0	0	0	0	0	0	Lacticaseibacillus casei
+Clostridium pasteurianum	0	0	0	0	0	0	0	0	0	0	0	Clostridium pasteurianum
+Ethanoligenens harbinense	0	0	0	0	0	0	0	0	0	0	0	Ethanoligenens harbinense
+Bacillus cereus	0	0	0	0	0	0	0	0	0	0	0	Bacillus cereus
+Clostridium argentinense	0	0	0	0	0	0	0	0	0	0	0	Clostridium argentinense
+Bifidobacterium pullorum	0	0	0	0	0	0	0	0	0	0	0	Bifidobacterium pullorum
+Listeria innocua	0	0	0	0	0	0	0	0	0	0	0	Listeria innocua
+Lawsonella clevelandensis	0	0	0	0	0	0	0	0	0	0	0	Lawsonella clevelandensis
+Christensenella massiliensis	0	0	0	0	0	0	0	0	0	0	0	Christensenella massiliensis
+Cellulosilyticum lentocellum	0	0	0	0	0	0	0	0	0	0	0	Cellulosilyticum lentocellum
+Parolsenella massiliensis	0	0	0	0	0	0	0	0	0	0	0	Parolsenella massiliensis
+Clostridiales bacterium	0	0	0	0	0	0	0	0	0	2.423746046	1.920000766	Clostridiales bacterium
+Clostridium sp. CAG:567	0	0	0	0	0	0	0	0	0	1.542024401	0	Clostridium sp. CAG:567
+Firmicutes bacterium CAG:460	0	0	0	0	0	0	0	0	0	0.755196566	0	Firmicutes bacterium CAG:460
+Senegalimassilia anaerobia	0	0	0	0	0	0	0	0	0	0.695323091	0	Senegalimassilia anaerobia
+Firmicutes bacterium CAG_194_44_15	0	0	0	0	0	0	0	0	0	0.524740172	0	Firmicutes bacterium CAG_194_44_15
+Eggerthella sp. CAG:368	0	0	0	0	0	0	0	0	0	0.448486218	0	Eggerthella sp. CAG:368
+Firmicutes bacterium CAG:95	0	0	0	0	0	0	0	0	0	0.446791685	0	Firmicutes bacterium CAG:95
+Oscillibacter sp. CAG:241_62_21	0	0	0	0	0	0	0	0	0	0.37449164	0	Oscillibacter sp. CAG:241_62_21
+Clostridium sp. CAG:138	0	0	0	0	0	0	0	0	0	0.336647085	0	Clostridium sp. CAG:138
+Blautia sp. OF03-15BH	0	0	0	0	0	0	0	0	0	0.290894713	0	Blautia sp. OF03-15BH
+Clostridiales bacterium 41_12_two_minus	0	0	0	0	0	0	0	0	0	0.282986896	0	Clostridiales bacterium 41_12_two_minus
+Campylobacter coli	0	0	0	0	0	0	0	0	0	0	0	Campylobacter coli
+Actinomyces oris	0	0	0	0	0	0	0	0	0	0	0	Actinomyces oris
+Actinomyces naeslundii	0	0	0	0	0	0	0	0	0	0	0	Actinomyces naeslundii
+Faecalibaculum rodentium	0	0	0	0	0	0	0	0	0	0	0	Faecalibaculum rodentium
+Lachnospiraceae bacterium oral taxon 500	0	0	0	0	0	0	0	0	0	0	0	Lachnospiraceae bacterium oral taxon 500
+Flavobacteriales bacterium	0	0	0	0	0	0	0	0	0	0	1.128820605	Flavobacteriales bacterium
+Ruminococcus sp. CAG:330	0	0	0	0	0	0	0	0	0	0	0.882654381	Ruminococcus sp. CAG:330
+Eubacterium sp. CAG:274	0	0	0	0	0	0	0	0	0	0	0.37355964	Eubacterium sp. CAG:274
+Firmicutes bacterium CAG:129	0	0	0	0	0	0	0	0	0	0	0.318962462	Firmicutes bacterium CAG:129
+Ligilactobacillus ruminis	0	0	0	0	0	0	0	0	0	0	0	Ligilactobacillus ruminis
